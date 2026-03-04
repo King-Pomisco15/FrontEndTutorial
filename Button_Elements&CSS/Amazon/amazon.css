@@ -4,5 +4,6 @@
   border: none;
   width: 170px;
   height: 35px;
-  border-radius: 17.5px
+  border-radius: 17.5px;
+  cursor: pointer;
 }
