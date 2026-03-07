@@ -1,0 +1,18 @@
+.first-button {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  width: 120px;
+  height: 45px;
+  border-radius: 3px;
+}
+.second-button {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border:1px solid rgb(108, 117, 125);
+  width: 120px;
+  height: 45px;
+  border-radius: 3px;
+  font-size: 15px;
+  font-weight: bold;
+}
