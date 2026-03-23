@@ -24,3 +24,13 @@ p {
     width: 300px;
     line-height: 20px;
 }
+.notif {
+  background-color: red;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 40px;
+  border: none;
+}
