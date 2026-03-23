@@ -10,3 +10,17 @@
 .signup-button:hover{
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
 }
+.extra {
+  background-color: black;
+  color: white;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+}
+.extra:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}

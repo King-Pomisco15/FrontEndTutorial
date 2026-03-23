@@ -1,0 +1,1 @@
+I learned to make use of "vertical-align" to determine the vertical alignment of inline block elements

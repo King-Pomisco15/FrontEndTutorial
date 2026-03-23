@@ -1,0 +1,26 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.video-title {
+    font-size: 20px;
+    font-weight: bold;
+    width: 350px;
+    line-height: 26px;
+    margin-bottom: 7px;
+}
+.view-display {
+    font-size: 15px;
+    opacity: 0.7;
+    margin-bottom: 15px;
+}
+.creator {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.description {
+    font-size: 15px;
+    width: 300px;
+    line-height: 20px;
+}

@@ -1,0 +1,23 @@
+.qbutton {
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-bottom: 7px;
+  padding-top: 7px;
+  margin-right: 10px;
+  margin-left: 1px;
+  cursor: pointer;
+}
+u {
+  margin-right: 5px;
+  color: blue;
+  cursor: pointer;
+}
+.sbutton {
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-bottom: 7px;
+  padding-top: 7px;
+  margin-right: 1px;
+  margin-left: 10px;
+  cursor: pointer;
+}

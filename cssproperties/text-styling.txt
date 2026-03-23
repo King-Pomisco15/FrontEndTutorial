@@ -1,0 +1,5 @@
+font-family - The type of font you want to make use of 
+font-weight - The degree of thickness of your text 
+font-size - The size of the text
+width - Ho long you want the text to be 
+line-height - Spacing between lines of text
